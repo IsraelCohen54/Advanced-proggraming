@@ -28,7 +28,7 @@ Please choose an option:
   
   1702, 1703
   
-  done
+  Done
   
   meaning that from 4 - 7 there were anomalies, etc
   
