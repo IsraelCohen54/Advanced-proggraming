@@ -23,8 +23,11 @@ Please choose an option:
 4. show anomalies with range of time steps, like that:
 
 4,7
+
 120, 170
+
 1702, 1703
+
 Done
   
   meaning that from 4 - 7 there were anomalies, etc
