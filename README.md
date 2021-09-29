@@ -15,15 +15,27 @@ Please choose an option:
 5. upload anomalies and analyze results
 6. exit
 
-Meaning:
+[Meaning:
+
 1 - upload file to train normal flying parameters for each feature
+
 2 - change correletion threshold
+
 3 - time step + description of who's features wasnt in normal correletion
+
 4 - show anomalies with range of time steps, like that:
+
   4,7
+  
   120, 170
+  
   1702, 1703
+  
   done
+  
   meaning that from 4 - 7 there were anomalies, etc
+  
 5 - Show True positive and False positive rate.
+
 6 - ye, that... XD
+]
