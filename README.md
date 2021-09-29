@@ -23,15 +23,12 @@ Please choose an option:
 4. show anomalies with range of time steps, like that:
 
   4,7
-  
   120, 170
-  
   1702, 1703
-  
   Done
   
   meaning that from 4 - 7 there were anomalies, etc
   
-5. Show True positive and False positive rate.
+5. Upload anomalies file, and show True positive and False positive rate.
 6. ye, that... XD
 ]
