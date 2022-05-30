@@ -1,6 +1,6 @@
 # Advanced-programming
 
-Anomalies detection (about flying simulator).
+Anomalies detection of flight data parameters.
 
 Starting with normal flying features, learn them (like threshold, etc), then run a test "fly" and check for anomalies in real-time.
 
