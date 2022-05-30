@@ -4,7 +4,7 @@ Anomalies detection of flight data parameters.
 
 Starting with normal flying features, learn them (like threshold, etc), then run a dummy flight and check for anomalies in real-time.
 
-In addition, the project contains communication with the client, with a Command Pattern design pattern, that gives the client those options (it looks like that):
+In addition, the project contains communication with the client, with a Command design pattern, that gives the client those options (it looks like that):
 
 Welcome to the Anomaly Detection Server.
 Please choose an option:
