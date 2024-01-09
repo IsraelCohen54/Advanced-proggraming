@@ -4,7 +4,7 @@ Anomalies detection of flight data parameters.
 
 Starting with normal flying features, learn them using Pearson's Correlation to define the threshold of legitimate values, then using linear regression to have an average line of all the points in the axis, then run a dummy flight and check for anomalies in real-time, and check if any point is too far from the correlation line by simply checking the difference between the line and a point by their X-axis value (if the point is too far from the line, the result would be higher then the threshold, and so, it would be an anomaly).
 
-In addition, the project contains communication with the client, with a Command design pattern, that gives the client those options (it looks like that):
+In addition, the project contains communication with many client using Command design pattern, and that gives each client those options (it looks like that):
 
 Welcome to the Anomaly Detection Server.
 Please choose an option:
